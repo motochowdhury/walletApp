@@ -1,4 +1,11 @@
 {
   "name": "AwesomeProject",
-  "displayName": "AwesomeProject"
+  "displayName": "AwesomeProject",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c8b8812b-cf36-4ae6-838e-f68f0d97748d"
+      }
+    }
+  }
 }
